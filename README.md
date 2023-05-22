@@ -1,5 +1,5 @@
 # Payment-Application
-Payment Application using data structure-oop implemented using c++
+Payment Application using data structure-oop implemented using c++ 
  This project done by
 1- Mostafa Ayman 
 2- Omar Islam
